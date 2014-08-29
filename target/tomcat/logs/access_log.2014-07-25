@@ -1,0 +1,2 @@
+0:0:0:0:0:0:0:1 - - [25/Jul/2014:11:01:14 +0800] "GET /OnlineExam HTTP/1.1" 302 - http-bio-8080-exec-1 0
+0:0:0:0:0:0:0:1 - - [25/Jul/2014:11:01:15 +0800] "GET /OnlineExam/ HTTP/1.1" 200 627 http-bio-8080-exec-7 474
